@@ -1,0 +1,34 @@
+#frase_inicial{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    font-size: 25px;
+    position: absolute;
+    top: 450px;
+    left: 400px;
+}
+#div_imagen{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+
+
+    left: 50%;
+  
+  
+    top: 50%;
+  
+  
+    transform: translate(-50%, -50%);
+}
+#Boton_inicial {
+    display: flex;
+    position: absolute;
+    bottom: 200px;
+    right: 430px;
+  }
+ 
+  #Titulo_principal{
+      font-size: 55px;
+      justify-content: center;
+      
+  }
