@@ -2,3 +2,45 @@
     display: flex;
     justify-content: center;
 }
+
+#mapa{
+    float: left;
+    width: 80%;
+    height: 80%;
+}
+
+body{
+    background-color: lightgray;
+    font-family: sans-serif;
+}
+
+#datos{
+    float: right;
+    top: 300px;
+    width: 300px;
+}
+
+.datos2{
+    padding: 20px;
+    margin: 20px;
+    background-color: transparent;
+    border: 1px solid black;
+    height: 175px;
+    
+
+}
+
+#Ir_a_Chile{
+    color: white;
+    font-weight: bolder;
+    padding: 2%;
+    background-color: black;
+    border-radius: 7%;
+    
+}
+
+
+svg{
+    fill: #4b58a8;
+  }
+
